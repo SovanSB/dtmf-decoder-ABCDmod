@@ -3,6 +3,8 @@ package wpam.recognizer;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
+import activity.MainActivity;
+
 
 public class Controller 
 {

@@ -5,8 +5,7 @@ public class SpectrumFragment
 	private int start;
 	private int end;
 	private Spectrum spectrum;
-	
-	//wyznaczony metod¹ i¿yniersk¹ mno¿nik okreœlaj¹cy ile razy wartoœæ musi byæ wiêksza od œredniej, ¿eby uznaæ j¹ za wa¿n¹ 
+
 	private static double DISTINCT_FACTOR = 2;
 
 	public SpectrumFragment(int start, int end, Spectrum spectrum) 
